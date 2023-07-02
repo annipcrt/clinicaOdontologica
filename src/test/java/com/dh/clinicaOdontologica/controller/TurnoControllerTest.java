@@ -133,14 +133,24 @@ class TurnoControllerTest {
     @Order(5)
     void eliminar() throws Exception {
 
-//        turnoService.eliminar(1L);
-//
-//
-//        MvcResult respuesta = mockMvc.perform(MockMvcRequestBuilders.delete("/turnos/borrar/1")
-//                        .contentType(MediaType.APPLICATION_JSON))
-//                        .andDo(MockMvcResultHandlers.print())
-//                        .andExpect(MockMvcResultMatchers.status().isNoContent()).andReturn();
-//        Assert.assertFalse(respuesta.getResponse().getContentAsString().isEmpty());
+        Paciente pacienteTest = new Paciente("Sam", "Smith", "987654", "Calle random", LocalDate.of(2022, 05, 20));
+        pacienteService.agregar(pacienteTest);
+
+        Odontologo odontologoTest = new Odontologo("Cosme", "Fulanito", "98765");
+        odontologoService.agregar(odontologoTest);
+
+        Turno turnoTest = new Turno();
+        turnoTest.setFechaHora(LocalDateTime.of(2023, 1, 30, 8, 30));
+        turnoTest.setPaciente(pacienteTest);
+        turnoTest.setOdontologo(odontologoTest);
+        turnoService.agregar(turnoTest);
+
+        MvcResult respuesta = mockMvc.perform(MockMvcRequestBuilders.delete("/turnos/borrar/{id}", turnoTest.getId())
+                        .contentType(MediaType.APPLICATION_JSON))
+                .andDo(MockMvcResultHandlers.print())
+                .andExpect(MockMvcResultMatchers.status().isNoContent()).andReturn();
+
+        Assert.assertFalse(respuesta.getResponse().getContentAsString().isEmpty());
 
     }
 }
