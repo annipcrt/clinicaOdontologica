@@ -12,3 +12,1450 @@
 [2023-06-29 03:14:50] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
 [2023-06-29 03:14:50] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 2
 [2023-06-29 03:14:50] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 17:55:40] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 17:55:40] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 17:55:40] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 17:55:40] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 17:55:40] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 17:55:40] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 17:55:40] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 17:55:40] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 17:55:40] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 17:55:40] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 17:56:33] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 17:56:33] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 17:56:33] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 17:56:33] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 17:56:33] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 17:56:33] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 17:56:34] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 17:56:34] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 17:56:34] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 17:56:34] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 17:56:57] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 17:56:57] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 17:56:57] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 17:56:57] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 17:56:57] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 17:56:57] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 17:56:57] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 17:56:57] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 17:56:57] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 17:56:57] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 17:57:12] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 17:57:12] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 17:57:12] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 17:57:12] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 17:57:12] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 17:57:12] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 17:57:12] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 17:57:12] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 17:57:12] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 17:57:12] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 17:57:13] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 17:57:13] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 17:57:13] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 17:57:13] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 17:57:13] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 17:57:13] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:07:29] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:07:29] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:07:29] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:07:29] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:07:29] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:07:29] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:07:29] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:07:29] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:07:29] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:07:29] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:07:29] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:07:29] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:07:29] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:07:29] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:08:02] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:08:02] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:08:02] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:08:02] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:08:02] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:08:02] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:08:02] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:08:02] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:08:02] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:08:02] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:08:02] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:08:02] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:08:02] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:08:02] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:08:02] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:08:02] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:08:02] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:08:02] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:08:02] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:08:02] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:08:02] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:08:02] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:08:02] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:08:03] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:08:03] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:08:03] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:08:03] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:08:03] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:08:03] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:08:03] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:08:03] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:08:03] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:11:21] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:11:21] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:11:21] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:11:21] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:11:21] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:11:21] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:11:21] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:11:21] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:11:21] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:11:21] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:11:21] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:11:21] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:11:21] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:11:21] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:11:21] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:11:21] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:11:21] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:11:21] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:11:22] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:11:22] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:11:22] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:11:22] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:11:22] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:11:22] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:11:22] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:11:22] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:11:22] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:11:22] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:11:22] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:11:22] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:11:22] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:11:22] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:19:34] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:19:34] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:19:34] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:19:34] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:19:34] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:19:34] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:19:34] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:19:34] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:19:34] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:19:34] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:19:44] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:19:44] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:19:44] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:19:44] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:19:44] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:19:44] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:19:44] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:19:44] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:19:44] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:19:44] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:20:53] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:20:53] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:20:53] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:20:53] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:20:53] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:20:53] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:20:53] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:20:53] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:20:53] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:20:53] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:26:06] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:26:06] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:26:06] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:26:06] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:26:06] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:26:06] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:26:06] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:26:06] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:26:06] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:26:06] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:28:21] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:28:21] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:28:21] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:28:21] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:28:21] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:28:21] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:28:21] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:28:21] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:28:21] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:28:21] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:28:45] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:28:45] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:28:45] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:28:45] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:28:45] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:28:45] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:28:45] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:28:45] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:28:45] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:28:45] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:29:12] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:29:12] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:29:12] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:29:12] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:29:12] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:29:12] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:29:12] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:29:12] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:29:12] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:29:12] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:29:12] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:29:12] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:30:49] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:30:49] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:30:49] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:30:49] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:30:49] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:30:49] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:30:49] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:30:49] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:30:49] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:30:49] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:31:12] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:31:12] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:31:12] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:31:12] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:31:12] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:31:12] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:31:12] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:31:12] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:31:12] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:31:12] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:32:30] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:32:30] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:32:30] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:32:30] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:32:30] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:32:30] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:32:30] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:32:30] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:32:30] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:32:30] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:32:30] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:32:30] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:39:01] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:39:01] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:39:01] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:39:01] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:39:01] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:39:01] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:39:01] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:39:01] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:39:01] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:39:01] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:39:01] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:39:01] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:39:33] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:39:33] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:39:33] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:39:33] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:39:33] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:39:33] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:39:33] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:39:33] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:39:33] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:39:34] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:39:52] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:39:52] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:39:53] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:39:53] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:39:53] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:39:53] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:39:53] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:39:53] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:39:53] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:39:53] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:39:53] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:39:53] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:39:53] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:39:53] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:39:53] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:39:53] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:41:53] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:41:53] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:41:53] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:41:53] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:41:53] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:41:53] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:41:53] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:41:53] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:41:53] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:41:53] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:41:53] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:41:53] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:41:53] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:41:53] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:41:53] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:41:53] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:42:14] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:42:14] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:42:15] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:42:15] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:42:15] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:42:15] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:42:15] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:42:15] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:42:15] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:42:15] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:42:15] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:42:15] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:42:15] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:42:15] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:42:15] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:42:15] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:42:15] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:42:15] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:43:04] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:43:04] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:43:04] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:43:04] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:43:04] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:43:04] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:43:04] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:43:04] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:43:04] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:43:04] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:43:04] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:43:04] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:43:04] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:43:04] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:43:04] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:43:04] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:43:04] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:43:04] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:43:04] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:43:04] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 18:45:06] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:45:06] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:45:06] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:45:06] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:45:06] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:45:06] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:45:06] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:45:06] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:45:06] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:45:06] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:45:06] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:45:06] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:45:06] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:45:06] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:45:06] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:45:06] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:45:06] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:45:06] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:45:06] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:45:06] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:45:06] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:45:06] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:45:06] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:45:06] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:45:06] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:45:06] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:45:06] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:45:06] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:45:06] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:45:06] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:45:06] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:45:07] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:45:07] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:45:07] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:45:07] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:45:07] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:45:07] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:45:07] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:45:07] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:45:07] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:45:07] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:45:07] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:45:07] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 18:51:03] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:51:03] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:51:03] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:51:03] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:51:03] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:51:03] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:51:03] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:51:03] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:51:03] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:51:03] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:51:03] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:51:03] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:51:03] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:51:03] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:51:03] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:51:03] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:51:03] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:51:03] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:51:03] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 18:54:52] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:54:52] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:54:52] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:54:52] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:54:52] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:54:52] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:54:52] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:54:52] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:54:52] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:54:52] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:54:52] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:54:52] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:54:52] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:54:52] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:54:52] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:54:52] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:54:52] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:54:52] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:54:52] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:54:52] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:54:52] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:54:52] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:54:52] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:54:53] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:54:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:54:53] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 18:57:41] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:57:41] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:57:41] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:57:41] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:57:41] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:57:41] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:57:41] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:57:41] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:57:41] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:57:41] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:57:41] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:57:41] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:57:41] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:57:41] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:57:41] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:57:41] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:57:41] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:57:41] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:57:41] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:57:41] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:57:41] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:57:41] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:57:41] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:57:41] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:57:41] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:57:41] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:57:41] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:57:41] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:57:41] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:57:41] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:57:41] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:57:42] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:57:42] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:57:42] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:57:42] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:57:42] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:57:42] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:57:42] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:57:42] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:57:42] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:57:42] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:57:42] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:57:42] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 18:58:16] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:58:16] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:58:17] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:58:17] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:58:17] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:58:17] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:58:17] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:58:17] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 18:58:17] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 18:58:17] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 18:58:17] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 18:58:17] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 18:58:17] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 18:58:17] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 18:58:17] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 18:58:17] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 18:58:17] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 18:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 18:58:17] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 19:02:04] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 19:02:04] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 19:02:04] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 19:02:04] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 19:02:04] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 19:02:04] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 19:02:04] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 19:02:04] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 19:02:04] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 19:02:04] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 19:02:04] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 19:02:04] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 19:02:04] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 19:02:04] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 19:02:04] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 19:02:05] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 19:02:05] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 19:02:05] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 19:02:05] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 19:02:05] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:02:05] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 19:06:40] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 19:06:41] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 19:06:41] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 19:06:41] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 19:06:41] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 19:06:41] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 19:06:41] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 19:06:41] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 19:06:41] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 19:06:41] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 19:06:41] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 19:06:41] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 19:06:41] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 19:06:41] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 19:06:41] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 19:06:41] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 19:06:41] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:06:41] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 19:08:54] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 19:08:54] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 19:08:54] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 19:08:54] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 19:08:54] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 19:08:54] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 19:08:54] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 19:08:54] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 19:08:54] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 19:08:54] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 19:08:54] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 19:08:54] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 19:08:54] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 19:08:54] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 19:08:54] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 19:08:54] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 19:08:54] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:08:54] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 19:10:59] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 19:10:59] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 19:11:00] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 19:11:00] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 19:11:00] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 19:11:00] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 19:11:00] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 19:11:00] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 19:11:00] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 19:11:00] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 19:11:00] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 19:11:00] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 19:11:00] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 19:11:00] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 19:11:00] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 19:11:00] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 19:11:00] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 19:11:00] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:23:52] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:23:52] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:23:52] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:23:52] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:23:52] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:23:52] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:23:52] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:23:52] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:23:52] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:23:53] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:23:53] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:23:53] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:23:53] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:23:53] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:23:53] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:23:53] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:23:53] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:23:53] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:23:53] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:27:24] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:27:24] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:27:24] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:27:24] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:27:24] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:27:24] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:27:24] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:27:24] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:27:24] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:27:24] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:27:24] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:27:24] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:27:24] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:27:24] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:27:24] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:27:24] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:27:24] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:27:24] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:28:11] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:28:11] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:28:11] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:28:11] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:28:11] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:28:11] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:28:11] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:28:11] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:28:11] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:28:11] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:28:11] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:28:11] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:28:11] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:28:11] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:28:11] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:28:11] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:28:11] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:28:11] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:28:11] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:28:11] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:28:11] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:28:11] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:28:11] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:28:11] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:28:11] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:28:11] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:28:12] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:28:12] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:28:12] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:28:12] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:28:12] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:28:12] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:28:12] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:28:12] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:28:12] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:28:12] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:28:12] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:28:12] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:28:12] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:28:12] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:28:12] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 20:30:31] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:30:31] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:30:31] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:30:31] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:30:31] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:30:31] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:30:31] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:30:31] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:30:31] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:30:31] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:30:31] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:30:31] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:30:31] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:30:31] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:30:31] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:30:31] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:30:31] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:30:31] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:31:17] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:31:18] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:31:18] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:31:18] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:31:18] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:31:18] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:31:18] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:31:18] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:31:18] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:31:18] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:31:18] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:31:18] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:31:18] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:31:18] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:31:18] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:31:18] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:31:18] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:31:18] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:32:47] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:32:48] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:32:48] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:32:48] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:32:48] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:32:48] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:32:48] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:32:48] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:32:48] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:32:48] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:32:48] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:32:48] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:32:48] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:32:48] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:32:48] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:32:48] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:32:48] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:32:48] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:35:59] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:35:59] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:35:59] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:35:59] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:35:59] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:35:59] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:35:59] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:35:59] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:35:59] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:35:59] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:35:59] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:35:59] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:35:59] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:35:59] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:35:59] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:35:59] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:35:59] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:35:59] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:45:04] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:45:04] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:45:04] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:45:04] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:45:04] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:45:04] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:45:04] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:45:04] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:45:04] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:45:04] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:45:04] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:45:04] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:45:04] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:45:04] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:45:04] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:45:04] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 20:46:13] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:46:13] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:46:13] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:46:13] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:46:13] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:46:13] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:46:13] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:46:13] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:46:13] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:46:13] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:46:13] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:46:13] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:46:13] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:46:13] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:46:13] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:46:13] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:46:13] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:46:13] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 20:48:49] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:48:49] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:48:49] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:48:49] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:48:49] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:48:49] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:48:49] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:48:49] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:48:49] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:48:49] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:48:49] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:48:49] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:48:49] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:48:49] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:48:49] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:48:49] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:48:49] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:48:49] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:52:23] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:52:23] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:52:23] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:52:23] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:52:23] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:52:23] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:52:23] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:52:23] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:52:23] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:52:23] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:52:24] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:52:24] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:52:24] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:52:24] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:52:24] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:52:24] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:52:24] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:52:24] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:52:24] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:52:24] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:53:55] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:53:55] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:53:56] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:53:56] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:53:56] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:53:56] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:53:56] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:53:56] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:53:56] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:53:56] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:53:56] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:53:56] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:53:56] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:53:56] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:53:56] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:53:56] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:53:56] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:53:56] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:58:17] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:58:17] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:58:17] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:58:17] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:58:17] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:58:17] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:58:17] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:58:17] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 20:58:17] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 20:58:17] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 20:58:17] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 20:58:17] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 20:58:17] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 20:58:17] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 20:58:17] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 20:58:17] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 20:58:17] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 20:58:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 20:58:17] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 21:18:39] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:18:39] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:18:39] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:18:39] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:18:39] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:18:39] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:18:39] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:18:39] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:18:39] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:18:39] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:18:39] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:18:39] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:18:39] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:18:39] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:18:39] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:18:39] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:18:39] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:18:39] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:18:39] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:18:39] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:18:39] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:18:39] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:18:39] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:18:40] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:18:40] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:18:40] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:18:40] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:18:40] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:18:40] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:18:40] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:18:40] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:18:40] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:18:40] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:18:40] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:19:15] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:19:15] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:19:15] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:19:15] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:19:15] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:19:15] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:19:15] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:19:15] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:19:15] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:19:15] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:19:16] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:19:16] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:19:16] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:19:16] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:19:16] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:19:16] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:19:16] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:19:16] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 21:19:16] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:19:16] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 21:21:46] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:21:46] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:21:46] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:21:46] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:21:46] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:21:46] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:21:46] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:21:46] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:21:46] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:21:46] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:21:46] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:21:46] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:21:46] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:21:46] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:21:46] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:21:46] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 21:21:46] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:21:46] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 21:24:17] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:24:17] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:24:17] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:24:17] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:24:17] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:24:17] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:24:17] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:24:17] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:24:17] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:24:17] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:24:17] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:24:17] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:24:17] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:24:17] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:24:17] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:24:17] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:24:17] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:24:17] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:24:17] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:24:17] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:24:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:24:17] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:24:17] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:24:17] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:24:17] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:24:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:17] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:24:17] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:18] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:24:18] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:24:18] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:24:18] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:24:18] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:24:18] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 21:24:18] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:18] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:24:18] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 21:24:18] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 21:24:18] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:18] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 21:24:39] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:24:39] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:24:39] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:24:39] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:24:39] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:24:39] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:24:40] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:24:40] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:24:40] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:24:40] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:24:40] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:24:40] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:24:40] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:24:40] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:24:40] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:24:40] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:24:40] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:24:40] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 21:24:40] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:24:40] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.
+[2023-07-01 21:25:44] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:25:44] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:25:44] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:25:44] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:25:44] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:25:44] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:25:44] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:25:44] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:25:44] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:25:44] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:25:44] [ DEBUG] [TurnoService:43] Agregamos un nuevo turno
+[2023-07-01 21:25:44] [ DEBUG] [PacienteService:85] Buscamos un paciente por su id
+[2023-07-01 21:25:44] [ INFO ] [PacienteService:91] Se encontró al paciente con el id 1
+[2023-07-01 21:25:44] [ DEBUG] [OdontologoService:85] Se va a buscar un odontólogo por su id
+[2023-07-01 21:25:44] [ INFO ] [OdontologoService:91] Se encontró al odontólogo con el id 1
+[2023-07-01 21:25:44] [ INFO ] [TurnoService:65] Se ha creado un nuevo turno
+[2023-07-01 21:25:44] [ DEBUG] [PacienteService:31] Agregamos un nuevo paciente
+[2023-07-01 21:25:44] [ INFO ] [PacienteService:34] Se ha creado un nuevo paciente
+[2023-07-01 21:25:44] [ DEBUG] [OdontologoService:32] Agregamos un nuevo odontólogo.
+[2023-07-01 21:25:44] [ INFO ] [OdontologoService:35] Se ha creado un nuevo odontólogo
+[2023-07-01 21:25:44] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:25:44] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:25:44] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:25:44] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:25:44] [ DEBUG] [TurnoService:73] Modificamos un turno existente.
+[2023-07-01 21:25:44] [ INFO ] [TurnoService:82] Turno modificado exitosamente
+[2023-07-01 21:25:44] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:25:44] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:25:44] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:25:44] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:25:45] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:25:45] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:25:45] [ DEBUG] [TurnoService:103] Se van a listar todos los turnos
+[2023-07-01 21:25:45] [ INFO ] [TurnoService:108] Se han listado todos los turnos.
+[2023-07-01 21:25:45] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 21:25:45] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:25:45] [ INFO ] [TurnoService:122] Se encontró el turno con el id 1
+[2023-07-01 21:25:45] [ INFO ] [TurnoService:95] Se ha eliminado el turno con el id 1
+[2023-07-01 21:25:45] [ DEBUG] [TurnoService:91] Eliminamos un turno existente.
+[2023-07-01 21:25:45] [ DEBUG] [TurnoService:115] Buscamos un turno por su id.
+[2023-07-01 21:25:45] [ ERROR] [TurnoService:124] El id proporcionado no se encuentra en la base de datos.

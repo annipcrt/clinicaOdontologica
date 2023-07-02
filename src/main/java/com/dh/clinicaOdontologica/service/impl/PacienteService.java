@@ -28,7 +28,7 @@ public class PacienteService implements IPacienteService {
 
     @Override
     public PacienteDTO agregar(Paciente paciente) {
-        logger.debug("Agregamos un nuevo odontólogo");
+        logger.debug("Agregamos un nuevo paciente");
 
         Paciente pacienteAgregado = pacienteRepository.save(paciente);
         logger.info("Se ha creado un nuevo paciente");

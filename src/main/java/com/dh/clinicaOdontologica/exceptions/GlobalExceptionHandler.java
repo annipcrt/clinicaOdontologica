@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 
 public class GlobalExceptionHandler extends Exception{
 
-    // No sé si está bien jaja
+
     private final Logger logger = Logger.getLogger(GlobalExceptionHandler.class);
 
     @ExceptionHandler({BadRequestException.class})
